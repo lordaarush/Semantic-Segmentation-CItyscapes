@@ -90,6 +90,12 @@ To enhance our semantic segmentation model, we plan to explore several promising
 These strategies will help us build more robust, accurate, and efficient segmentation models, leveraging the latest deep learning advancements.
 
 
+# Links
+Notebook Link : https://www.kaggle.com/code/ishansrivastava1308/semanticsegmentationcityscapes
+
+Repository Link : https://github.com/Ishan130803/Semantic-Segmentation-Kaggle
+
+
 
 
 
