@@ -75,7 +75,7 @@ Sparse Categorical Cross entropy was chosen as a loss function because we are us
 # Results
 Below is the result of semantic segmentation of first 32 images of validation dataset
 
-
+![alt text](https://github.com/Ishan130803/Semantic-Segmentation-CityScapes-Dataset/blob/main/Images/sample_ouptuts.jpg)
 
 # Conclusion
 We are able to successfully construct multiple models for semantic segmentation which  are at par with well known architectures 
