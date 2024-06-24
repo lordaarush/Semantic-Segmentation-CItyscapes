@@ -104,7 +104,7 @@ Notebook Link : https://www.kaggle.com/code/ishansrivastava1308/semanticsegmenta
 
 Repository Link : https://github.com/Ishan130803/Semantic-Segmentation-Kaggle
 
-
+Full Project Report : https://docs.google.com/document/d/1bzoFGsyaNgRi6CWs_Aa-yJ7rqbaNKvpSBTVGQM6Qr4A/edit?usp=sharing
 
 
 
