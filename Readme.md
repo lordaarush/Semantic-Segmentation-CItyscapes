@@ -1,5 +1,5 @@
 # Objective
-To build an Neural Network architecture for semantic segmentation on the cityscapes dataset 
+To build an Neural Network architecture for semantic segmentation on the cityscapes dataset
 
 # Introduction
 Semantic segmentation is  a computer vision task where the goal is to classify each pixel in an image into a predefined category or class. Unlike traditional image classification, which assigns a single label to an entire image, semantic segmentation provides a detailed understanding of the scene by labelling each pixel individually. 
