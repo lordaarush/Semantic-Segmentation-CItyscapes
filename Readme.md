@@ -100,9 +100,6 @@ These strategies will help us build more robust, accurate, and efficient segment
 
 
 # Links
-Notebook Link : https://www.kaggle.com/code/ishansrivastava1308/semanticsegmentationcityscapes
-
-Repository Link : https://github.com/Ishan130803/Semantic-Segmentation-Kaggle
 
 Full Project Report : https://docs.google.com/document/d/1bzoFGsyaNgRi6CWs_Aa-yJ7rqbaNKvpSBTVGQM6Qr4A/edit?usp=sharing
 
